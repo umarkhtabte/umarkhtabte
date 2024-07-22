@@ -20,6 +20,12 @@ I'm a passionate **Software Engineer** with **3 years of experience** specializi
   - 🛠️ **API Integration**
   - 🛠️ **Social Media API's Integration**
   - 🛠️ **Visual Code**
+  - 🌟 **Tailwind CSS**
+  - 🛠️ **Symfony** 
+  - 💾 **MySQL** & **SQLite** 
+  - 📈 **Analytics** Tools
+  - 📦 **Composer** 
+  - 🗂️ **Docker** 
 
 ## 🌟 What I Do
 
