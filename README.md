@@ -33,7 +33,7 @@ I specialize in creating and customizing WordPress themes and plugins, developin
 
 ## 📬 Get in Touch
 
-- 📧 Email: [umar.khtab@example.com](mailto:umarkhtab.te@gmail.com)
+- 📧 Email: [umarkhtab.te@gmail.com](mailto:umarkhtab.te@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/umarkhtab](https://www.linkedin.com/in/rao-umar-a6b96317b)
 - 🌍 Portfolio: [umarkhtab.dev](https://umarkhtab.dev)
 
