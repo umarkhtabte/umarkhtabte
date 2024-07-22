@@ -45,14 +45,16 @@ I specialize in creating and customizing WordPress themes and plugins, developin
 
 ---
 
-[![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarkhtabte&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff)](https://github.com/umarkhtabte)
-
----
 
 Feel free to connect with me or explore my repositories to see more of my work. I’m always open to collaboration and new opportunities!
 
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
-> "Programming is like fun. Play it like a game" - Cory House
+---
+> "Programming is like fun. Play it like a game" - Umar Khtab
+
+
+[![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarkhtabte&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff)](https://github.com/umarkhtabte)
+
 
