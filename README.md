@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with **3 years of experience** specializing in web development. I thrive on solving complex problems and crafting efficient, elegant solutions.
+I'm a passionate **Software Engineer** with **5 years of experience** specializing in web development. I thrive on solving complex problems and crafting efficient, elegant solutions.
 
 ## 🛠️ Skills
 
