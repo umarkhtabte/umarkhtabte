@@ -8,7 +8,9 @@ I'm a passionate **Software Engineer** with **5 years of experience** specializi
 
 - **Languages & Frameworks**:
   - 💻 **PHP** 
-  - 🌐 **WordPress** & **WordPress Plugin Customization** 
+  - 🔨 **WordPress Development** 
+  - 🌐 **WordPress Theme Customization** 
+  - 🌐 **WordPress Plugin Customization** 
   - 🔨 **Plugin Development** 
   - 🧩 **Laravel** 
   - 🏗️ **JavaScript** 
@@ -41,7 +43,7 @@ I specialize in creating and customizing WordPress themes and plugins, developin
 
 - 📧 Email: [umarkhtab.te@gmail.com](mailto:umarkhtab.te@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/umarkhtab](https://www.linkedin.com/in/rao-umar-a6b96317b)
-- 🌍 Portfolio: [umar Khtab](https://www.linkedin.com/in/umar-khtab-a6b96317b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌍 Portfolio: [umar Khtab](https://umarkhtab.wuaze.com/)
 
 ---
 
